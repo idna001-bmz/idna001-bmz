@@ -1,16 +1,18 @@
-### Hi there 👋
+### Heyy there, I'm Andreas 🙋🏼‍♂️
 
-<!--
-**idna001-clx/idna001-clx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+[<img align="left" alt="idna001 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="idna001 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="idna001 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+<br />
+
+<img alt="idna001-clx" align="left"  src="https://github-readme-stats.vercel.app/api?username=idna001-clx&show_icons=true&count_private=true" />
+
+
+[twitter]: https://twitter.com/idna001
+[instagram]: https://instagram.com/idna001
+[linkedin]: https://www.linkedin.com/in/andreas-voelker/
