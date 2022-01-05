@@ -10,9 +10,6 @@
 <br />
 <br />
 
-<img alt="idna001-clx" align="left"  src="https://github-readme-stats.vercel.app/api?username=idna001-clx&show_icons=true&count_private=false" />
-
-
 [twitter]: https://twitter.com/idna001
 [instagram]: https://instagram.com/idna001
 [linkedin]: https://www.linkedin.com/in/andreas-voelker/
