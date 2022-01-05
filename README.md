@@ -9,8 +9,6 @@
 <br />
 <br />
 <br />
-<img alt="idna001-clx" align="left"  src="https://github-readme-stats.vercel.app/api?username=idna001-clx&show_icons=true&count_private=true" />
-
 
 [twitter]: https://twitter.com/idna001
 [instagram]: https://instagram.com/idna001
